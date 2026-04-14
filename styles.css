@@ -1,8 +1,22 @@
 .holder{
 	width:200px;
 	display: grid;
-	grid-template-columns: repeat(2,1fr);
+	grid-template-columns: repeat(2,100px);
+	border:2px solid green; 
 }
 .item{
 	width:100px;
+	border:2px solid black;
+}
+.item-1{
+	background-color:blue;
+}
+.item-2{
+	background-color:green;
+}
+.item-3{
+	background-color: violet;
+}
+.item-4{
+	background-color:yellow;
 }
