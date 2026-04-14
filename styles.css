@@ -1,7 +1,7 @@
 .holder{
-	width:200px;
+	width:400px;
 	display: grid;
-	grid-template-columns: repeat(2,100px);
+	grid-template-columns: repeat(2,200px);
 	border:2px solid green; 
 }
 .item{
